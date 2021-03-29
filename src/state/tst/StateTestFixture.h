@@ -1,7 +1,7 @@
 #include "gtest/gtest.h"
-#include <com/amazonaws/kinesis/video/client/Include.h>
-#include <com/amazonaws/kinesis/video/utils/Include.h>
-#include <com/amazonaws/kinesis/video/state/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/client/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/utils/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/state/Include.h>
 
 #include "src/state/src/Include_i.h"
 

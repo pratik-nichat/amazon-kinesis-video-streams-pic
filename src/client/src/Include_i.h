@@ -13,7 +13,7 @@ extern "C" {
 ////////////////////////////////////////////////////
 // Project include files
 ////////////////////////////////////////////////////
-#include "com/amazonaws/kinesis/video/client/Include.h"
+#include "webrtc/com/amazonaws/kinesis/video/client/Include.h"
 
 #define MAX_PIC_REENTRANCY_COUNT (1024 * 1024)
 

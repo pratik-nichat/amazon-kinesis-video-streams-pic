@@ -10,7 +10,7 @@ extern "C" {
 
 #pragma once
 
-#include <com/amazonaws/kinesis/video/common/CommonDefs.h>
+#include <webrtc/com/amazonaws/kinesis/video/common/CommonDefs.h>
 
 /**
  * Represents an invalid duration which might be returned from the parser

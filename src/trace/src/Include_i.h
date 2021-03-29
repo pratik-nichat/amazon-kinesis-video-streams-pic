@@ -13,7 +13,7 @@ extern "C" {
 /**
  * Including the headers
  */
-#include "com/amazonaws/kinesis/video/trace/Include.h"
+#include "webrtc/com/amazonaws/kinesis/video/trace/Include.h"
 
 /**
  * Minimum number of traces we should be able to store

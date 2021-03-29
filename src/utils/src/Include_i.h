@@ -10,7 +10,7 @@ extern "C" {
 
 #pragma once
 
-#include "com/amazonaws/kinesis/video/utils/Include.h"
+#include "webrtc/com/amazonaws/kinesis/video/utils/Include.h"
 
 /**
  * Thread wrapper for Windows

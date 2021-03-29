@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8)
 
-set(KINESIS_VIDEO_DOMAIN com/amazonaws/kinesis/video)
+set(KINESIS_VIDEO_DOMAIN webrtc/com/amazonaws/kinesis/video)
 
 function(kinesis_video_library_setup LIBRARY_NAME)
   set(LIBRARY_HEADERS_DIR include/${KINESIS_VIDEO_DOMAIN}/${LIBRARY_NAME})

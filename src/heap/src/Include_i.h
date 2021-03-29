@@ -11,7 +11,7 @@ extern "C" {
 /**
  * Including the headers
  */
-#include "com/amazonaws/kinesis/video/heap/Include.h"
+#include "webrtc/com/amazonaws/kinesis/video/heap/Include.h"
 
 /**
  * Invalid allocation value

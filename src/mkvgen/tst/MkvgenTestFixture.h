@@ -3,8 +3,8 @@
 #endif
 
 #include "gtest/gtest.h"
-#include <com/amazonaws/kinesis/video/utils/Include.h>
-#include <com/amazonaws/kinesis/video/mkvgen/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/utils/Include.h>
+#include <webrtc/com/amazonaws/kinesis/video/mkvgen/Include.h>
 
 #include "src/mkvgen/src/Include_i.h"
 
